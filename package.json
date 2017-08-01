@@ -1,0 +1,24 @@
+{
+  "name": "sunz",
+  "version": "1.0.0",
+  "description": "\"webpack sample project\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --inline"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-dev-server"
+  ],
+  "author": "sunz",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1",
+    "webpack-merge": "^4.1.0"
+  },
+  "dependencies": {
+    "webpack-merge": "^4.1.0"
+  }
+}
